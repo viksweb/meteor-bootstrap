@@ -1,50 +1,14 @@
-(function(){Template.mainLayout.rendered = function(){
+(function(){Template.layout2.rendered = function(){
 
-    // Minimalize menu when screen is less than 768px
-    $(window).bind("resize load", function () {
-        if ($(this).width() < 769) {
-            $('body').addClass('body-small')
-        } else {
-            $('body').removeClass('body-small')
-        }
-    });
+    // Add special class for handel top navigation layout
+    $('body').addClass('top-navigation');
 
-    // Fix height of layout when resize, scroll and load
-    $(document).bind("load resize scroll", function() {
-        if(!$("body").hasClass('body-small')) {
+}
 
-            var navbarHeigh = $('nav.navbar-default').height();
-            var wrapperHeigh = $('#page-wrapper').height();
+Template.layout2.destroyed = function(){
 
-            if(navbarHeigh > wrapperHeigh){
-                $('#page-wrapper').css("min-height", navbarHeigh + "px");
-            }
-
-            if(navbarHeigh < wrapperHeigh){
-                $('#page-wrapper').css("min-height", $(window).height()  + "px");
-            }
-        }
-    });
-
-
-    // SKIN OPTIONS
-    // Uncomment this if you want to have different skin option:
-    // Available skin: (skin-1 or skin-3, skin-2 deprecated)
-    // $('body').addClass('skin-1');
-
-    // FIXED-SIDEBAR
-    // Uncomment this if you want to have fixed left navigation
-    // $('body').addClass('fixed-sidebar');
-    // $('.sidebar-collapse').slimScroll({
-    //     height: '100%',
-    //     railOpacity: 0.9
-    // });
-
-    // BOXED LAYOUT
-    // Uncomment this if you want to have boxed layout
-    // $('body').addClass('boxed-layout');
-
-
+    // Remove special top navigation class
+    $('body').removeClass('top-navigation');
 };
 
 })();

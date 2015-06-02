@@ -8,15 +8,22 @@ Router.configure({
 // Example pages routes
 //
 
-Router.route('/pageOne', function () {
-    this.render('pageOne');
+Router.route('/search', function () {
+    this.render('search');
+    this.layout('layout2');
 });
 
-Router.route('/pageTwo', function () {
-    this.render('pageTwo');
+Router.route('/search1', function () {
+    this.render('search1');
+    this.layout('layout2')
 });
 
 Router.route('/', function () {
-    Router.go('pageOne');
+	  this.render('homepage');
+    this.layout('layout2');
 });
 
+Router.route('/codeEditor', function () {
+    this.render('codeEditor');
+    this.layout('layout2')
+});

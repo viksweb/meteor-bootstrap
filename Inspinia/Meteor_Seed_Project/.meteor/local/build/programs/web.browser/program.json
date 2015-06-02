@@ -550,6 +550,87 @@
       "hash": "ad886f962a7a82f47341a27076a44b8cf7508af2"
     },
     {
+      "path": "app/client/views/pages/cssanimations/template.cssAnimations.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/pages/cssanimations/template.cssAnimations.js?344be4dd09679b2ac1e867d1ec6f81863923bbeb",
+      "size": 11907,
+      "hash": "344be4dd09679b2ac1e867d1ec6f81863923bbeb"
+    },
+    {
+      "path": "app/client/views/pages/dashboards/template.dashboard-1.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/pages/dashboards/template.dashboard-1.js?18b0f637c5a9f69d24625bc8baf9889169fc6f96",
+      "size": 23142,
+      "hash": "18b0f637c5a9f69d24625bc8baf9889169fc6f96"
+    },
+    {
+      "path": "app/client/views/pages/dashboards/template.dashboard-2.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/pages/dashboards/template.dashboard-2.js?f20344047fee53ac207cb661c150ae82e2daa9a7",
+      "size": 26259,
+      "hash": "f20344047fee53ac207cb661c150ae82e2daa9a7"
+    },
+    {
+      "path": "app/client/views/pages/dashboards/template.dashboard-3.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/pages/dashboards/template.dashboard-3.js?8767505036e4f15c0332ac46168fbf9fac262aec",
+      "size": 15564,
+      "hash": "8767505036e4f15c0332ac46168fbf9fac262aec"
+    },
+    {
+      "path": "app/client/views/pages/dashboards/template.dashboard-4.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/pages/dashboards/template.dashboard-4.js?e8a03180240e768d6d3d9d7bd12428c97f1b1f53",
+      "size": 24357,
+      "hash": "e8a03180240e768d6d3d9d7bd12428c97f1b1f53"
+    },
+    {
+      "path": "app/client/views/pages/dashboards/template.dashboard-4l.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/pages/dashboards/template.dashboard-4l.js?2e3c684355892576e3b31b034fb5c74919b1c188",
+      "size": 22800,
+      "hash": "2e3c684355892576e3b31b034fb5c74919b1c188"
+    },
+    {
+      "path": "app/client/views/pages/index/template.homepage.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/pages/index/template.homepage.js?c614fc60eb5afbc5e5908ed1bb17ff7a09327454",
+      "size": 1626,
+      "hash": "c614fc60eb5afbc5e5908ed1bb17ff7a09327454"
+    },
+    {
+      "path": "app/client/views/pages/search/template.search.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/pages/search/template.search.js?db02f1e037453acabf85c57d47376453c70b2c4d",
+      "size": 10553,
+      "hash": "db02f1e037453acabf85c57d47376453c70b2c4d"
+    },
+    {
+      "path": "app/client/views/pages/search/template.search1.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/pages/search/template.search1.js?81e911b4b46d1fba393a92485c94d2e71f8b115f",
+      "size": 6753,
+      "hash": "81e911b4b46d1fba393a92485c94d2e71f8b115f"
+    },
+    {
       "path": "app/client/views/common/template.footer.js",
       "where": "client",
       "type": "js",
@@ -613,6 +694,15 @@
       "hash": "906ae2ed22d8cddbd5f04d264a2e28f6a904c8df"
     },
     {
+      "path": "app/client/views/layouts/template.layout2.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/layouts/template.layout2.js?d89a94351ef2ecebca748fec76b3528098280dc4",
+      "size": 631,
+      "hash": "d89a94351ef2ecebca748fec76b3528098280dc4"
+    },
+    {
       "path": "app/client/views/layouts/template.not-found.js",
       "where": "client",
       "type": "js",
@@ -644,9 +734,81 @@
       "where": "client",
       "type": "js",
       "cacheable": true,
-      "url": "/client/views/layouts/template.main.js?5ef4db01224466a36634140fc963b6507668b1c6",
-      "size": 965,
-      "hash": "5ef4db01224466a36634140fc963b6507668b1c6"
+      "url": "/client/views/layouts/template.main.js?503f7b05fc1210016919cf19c10ae3828b240a1c",
+      "size": 677,
+      "hash": "503f7b05fc1210016919cf19c10ae3828b240a1c"
+    },
+    {
+      "path": "app/client/plugins/codemirror/script/codemirror.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/plugins/codemirror/script/codemirror.js?7c9ec8d56809b5753c0c070fbe6a2477a77cd18f",
+      "size": 313594,
+      "hash": "7c9ec8d56809b5753c0c070fbe6a2477a77cd18f"
+    },
+    {
+      "path": "app/client/views/pages/cssanimations/cssAnimations.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/pages/cssanimations/cssAnimations.js?c8d2902f8029571d98613499449673f05e52fa2a",
+      "size": 1119,
+      "hash": "c8d2902f8029571d98613499449673f05e52fa2a"
+    },
+    {
+      "path": "app/client/views/pages/dashboards/dashbarod-1.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/pages/dashboards/dashbarod-1.js?13876bfa73009cc07a13e37fc9339d9a3c45a189",
+      "size": 4782,
+      "hash": "13876bfa73009cc07a13e37fc9339d9a3c45a189"
+    },
+    {
+      "path": "app/client/views/pages/dashboards/dashboard-2.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/pages/dashboards/dashboard-2.js?128df5fcff31756d3a720cf69f16f8137aeee1e3",
+      "size": 4823,
+      "hash": "128df5fcff31756d3a720cf69f16f8137aeee1e3"
+    },
+    {
+      "path": "app/client/views/pages/dashboards/dashboard-3.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/pages/dashboards/dashboard-3.js?37c44e8b00c35f28fb1881962942276259851568",
+      "size": 2547,
+      "hash": "37c44e8b00c35f28fb1881962942276259851568"
+    },
+    {
+      "path": "app/client/views/pages/dashboards/dashboard-4.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/pages/dashboards/dashboard-4.js?f7e3d495e39ce291371b293b11064ff40c578567",
+      "size": 3141,
+      "hash": "f7e3d495e39ce291371b293b11064ff40c578567"
+    },
+    {
+      "path": "app/client/views/pages/dashboards/dashboard-4l.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/pages/dashboards/dashboard-4l.js?1a4939309461f8e85391f87a3b02bc973239d144",
+      "size": 3288,
+      "hash": "1a4939309461f8e85391f87a3b02bc973239d144"
+    },
+    {
+      "path": "app/client/views/pages/search/search.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/pages/search/search.js?409fea97ec5629ea646a6867af825b3fcf673de3",
+      "size": 1044,
+      "hash": "409fea97ec5629ea646a6867af825b3fcf673de3"
     },
     {
       "path": "app/client/plugins/blueimp/jquery.blueimp-gallery.min.js",
@@ -656,6 +818,15 @@
       "url": "/client/plugins/blueimp/jquery.blueimp-gallery.min.js?df409f4cc3f92b8fc39e7adb44d422a595828648",
       "size": 31584,
       "hash": "df409f4cc3f92b8fc39e7adb44d422a595828648"
+    },
+    {
+      "path": "app/client/plugins/codemirror/javascript.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/plugins/codemirror/javascript.js?f73b2148be2b90eee535832a9efc38d4d3b0d12d",
+      "size": 26111,
+      "hash": "f73b2148be2b90eee535832a9efc38d4d3b0d12d"
     },
     {
       "path": "app/client/plugins/metisMenu/jquery.metisMenu.js",
@@ -739,13 +910,22 @@
       "hash": "6b2ce1bc94d219bb73367ac6b932c0540425b4f9"
     },
     {
+      "path": "app/client/views/layouts/layout2.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/layouts/layout2.js?c00f65e0f3b85981274ec83346a5d01ce090f8fc",
+      "size": 297,
+      "hash": "c00f65e0f3b85981274ec83346a5d01ce090f8fc"
+    },
+    {
       "path": "app/client/config/router.js",
       "where": "client",
       "type": "js",
       "cacheable": true,
-      "url": "/client/config/router.js?edc141a02dc7b9c548f2c030714643ee54cffc07",
-      "size": 349,
-      "hash": "edc141a02dc7b9c548f2c030714643ee54cffc07"
+      "url": "/client/config/router.js?599914a272212d2bddcdee92e3343ee761f6326b",
+      "size": 536,
+      "hash": "599914a272212d2bddcdee92e3343ee761f6326b"
     },
     {
       "path": "app/client/startup/default.js",
@@ -761,20 +941,20 @@
       "where": "client",
       "type": "js",
       "cacheable": true,
-      "url": "/client/views/layouts/main.js?5895b754b0606bcbd6a6bc9921bdfa256d2d854f",
-      "size": 1457,
-      "hash": "5895b754b0606bcbd6a6bc9921bdfa256d2d854f"
+      "url": "/client/views/layouts/main.js?c00f65e0f3b85981274ec83346a5d01ce090f8fc",
+      "size": 297,
+      "hash": "c00f65e0f3b85981274ec83346a5d01ce090f8fc"
     },
     {
-      "path": "1695c6711f265ba9ada6e2b8a26977916061b20c.css",
+      "path": "31107ebf12922581a900eb8c2cea5d5fe4653568.css",
       "where": "client",
       "type": "css",
       "cacheable": true,
-      "url": "/1695c6711f265ba9ada6e2b8a26977916061b20c.css",
-      "sourceMap": "1695c6711f265ba9ada6e2b8a26977916061b20c.css.map",
-      "sourceMapUrl": "/1695c6711f265ba9ada6e2b8a26977916061b20c.map",
-      "size": 379019,
-      "hash": "1695c6711f265ba9ada6e2b8a26977916061b20c"
+      "url": "/31107ebf12922581a900eb8c2cea5d5fe4653568.css",
+      "sourceMap": "31107ebf12922581a900eb8c2cea5d5fe4653568.css.map",
+      "sourceMapUrl": "/31107ebf12922581a900eb8c2cea5d5fe4653568.map",
+      "size": 412618,
+      "hash": "31107ebf12922581a900eb8c2cea5d5fe4653568"
     },
     {
       "path": "packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.eot",
@@ -951,7 +1131,7 @@
       "path": "head.html",
       "where": "internal",
       "type": "head",
-      "hash": "f22b37b007dddb5c39a04e2ca3f2395837c6a704"
+      "hash": "f9d91f09d70e37f7e3212dc6575b42919fe97f51"
     }
   ]
 }
